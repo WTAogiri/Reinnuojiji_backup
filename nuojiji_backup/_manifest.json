@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "timestamp": 1794364467770,
+  "timestamp": 1794375317445,
   "appVersion": "",
   "source": "auto",
   "device": "app-ios",
@@ -247,7 +247,7 @@
     "_migration": true
   },
   "complete": true,
-  "lastCompleteAt": 1794364467770,
+  "lastCompleteAt": 1794375317445,
   "secretsIncluded": false,
   "inProgress": false,
   "files": {
@@ -292,9 +292,9 @@
       "b": "b7756d7bd21613bf61c0703ef8e5475555575464"
     },
     "_localStorage.json": {
-      "h": "g:95270df94b579f9b467647c34afdb5795affd413",
+      "h": "g:de045ed288153cc33ac3eaa97b5dc8fad76daffb",
       "gz": false,
-      "b": "95270df94b579f9b467647c34afdb5795affd413"
+      "b": "de045ed288153cc33ac3eaa97b5dc8fad76daffb"
     },
     "userPosts.json": {
       "h": "g:562d287822e2aa28bfdd5d87726e4ab3a3c9c0df",
@@ -326,15 +326,20 @@
       "gz": false,
       "b": "209735bd2f110f85ad18bdb0bc721224dbf7a352"
     },
+    "globalSettings.json": {
+      "h": "g:d47089de6627efa58d2aec38d32712bd12cf3d68",
+      "gz": false,
+      "b": "d47089de6627efa58d2aec38d32712bd12cf3d68"
+    },
+    "userState.json": {
+      "h": "g:d3ac1765d8347fe1114cd69b92e723a47a547a23",
+      "gz": false,
+      "b": "d3ac1765d8347fe1114cd69b92e723a47a547a23"
+    },
     "messages_chunk_4.json": {
       "h": "g:7f89b5b1b7707bf25382d9dab59ceb5e971d43cb",
       "gz": false,
       "b": "7f89b5b1b7707bf25382d9dab59ceb5e971d43cb"
-    },
-    "userState.json": {
-      "h": "g:2b1d6901f37359839b752a44317bf9a79109eb53",
-      "gz": false,
-      "b": "2b1d6901f37359839b752a44317bf9a79109eb53"
     },
     "messages_chunk_5.json": {
       "h": "g:70ab8664dfad992369073e45bba41abd12ac3e7f",
@@ -345,11 +350,6 @@
       "h": "g:3275b65bd383ba77346d4cd0757c0945e48ccb65",
       "gz": false,
       "b": "3275b65bd383ba77346d4cd0757c0945e48ccb65"
-    },
-    "globalSettings.json": {
-      "h": "g:bb13429c2ae3c56bbd49820f6b881accc1957367",
-      "gz": false,
-      "b": "bb13429c2ae3c56bbd49820f6b881accc1957367"
     },
     "messages_chunk_7.json": {
       "h": "g:0733b410b85226d352d31d33163a2e78b10fcdbf",
@@ -1811,20 +1811,10 @@
       "gz": false,
       "b": "2ebfe7fb99fa1d4cb0b311ac5768d5c7292f205e"
     },
-    "messages_chunk_299.json": {
-      "h": "g:cbdbacf2cd1861cc71bcec661d3e3e0a796b7437",
-      "gz": false,
-      "b": "cbdbacf2cd1861cc71bcec661d3e3e0a796b7437"
-    },
     "favorites.json": {
       "h": "g:c1af83409ce1b503c20f3b4ba2a3daf6fd5e3854",
       "gz": false,
       "b": "c1af83409ce1b503c20f3b4ba2a3daf6fd5e3854"
-    },
-    "memory.json": {
-      "h": "g:c6782e3764e8413b8732492c6b59cd94b8bc637f",
-      "gz": false,
-      "b": "c6782e3764e8413b8732492c6b59cd94b8bc637f"
     },
     "summaryEntries.json": {
       "h": "g:21ccbc2bc92b3178cfb2e7ff265f4e2578ea2983",
@@ -1905,6 +1895,16 @@
       "h": "g:0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
       "gz": false,
       "b": "0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc"
+    },
+    "messages_chunk_299.json": {
+      "h": "g:25a2b7e066ea879cd40f0dee37659c81ee00c776",
+      "gz": false,
+      "b": "25a2b7e066ea879cd40f0dee37659c81ee00c776"
+    },
+    "memory.json": {
+      "h": "g:e3f57b793fb4f96c5951e9443593e5e90a377414",
+      "gz": false,
+      "b": "e3f57b793fb4f96c5951e9443593e5e90a377414"
     },
     "ttsAudio_chunk_0.json": {
       "h": "g:917797741cd364f453aec1f513939f65676ac84a",
@@ -4227,19 +4227,14 @@
       "b": "0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc"
     },
     "xinsheng.json": {
-      "h": "g:2645f8e43dc10070b803d9fcb16679afbaa5230c",
+      "h": "g:ecdc16753978db95e80389433432d365439ffc0e",
       "gz": false,
-      "b": "2645f8e43dc10070b803d9fcb16679afbaa5230c"
+      "b": "ecdc16753978db95e80389433432d365439ffc0e"
     },
     "xinshengRounds_chunk_0.json": {
       "h": "g:5f3bb9a862644f6dab3a2e2bce3e57377edb65a9",
       "gz": false,
       "b": "5f3bb9a862644f6dab3a2e2bce3e57377edb65a9"
-    },
-    "xinshengRounds_chunk_1.json": {
-      "h": "g:3919737505936be758944909acd8547c44e908fb",
-      "gz": false,
-      "b": "3919737505936be758944909acd8547c44e908fb"
     },
     "pomodoroSessions.json": {
       "h": "g:5b759f3835e5aa4401ec60812e6050a4686a63b9",
@@ -4390,6 +4385,11 @@
       "h": "g:76dbbd5c36ff7433b4c5ef1c1a752945ff1c68f9",
       "gz": false,
       "b": "76dbbd5c36ff7433b4c5ef1c1a752945ff1c68f9"
+    },
+    "xinshengRounds_chunk_1.json": {
+      "h": "g:88e00aff3b139cd8b00bb134e39ba98e2d6c3084",
+      "gz": false,
+      "b": "88e00aff3b139cd8b00bb134e39ba98e2d6c3084"
     },
     "imageStore_chunk_28.json": {
       "h": "g:cbc0c51844ea84a16220b65d4aba6b7013edd940",
@@ -4816,16 +4816,6 @@
       "gz": false,
       "b": "a05b5908d95263638da9d838e4f5e2236de5aab3"
     },
-    "thinkingStore.json": {
-      "h": "g:b5c4efa75cec2c777eb22bf0f44318bcd6f840f5",
-      "gz": false,
-      "b": "b5c4efa75cec2c777eb22bf0f44318bcd6f840f5"
-    },
-    "commitments.json": {
-      "h": "g:07c5956516aa7c6368e0650fe8ed61458d8d3732",
-      "gz": false,
-      "b": "07c5956516aa7c6368e0650fe8ed61458d8d3732"
-    },
     "chikanPhoneSkins.json": {
       "h": "g:b47723db9ac61cf37fbf729e610f359174b1a73a",
       "gz": false,
@@ -4907,14 +4897,24 @@
       "b": "0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc"
     },
     "characterLifeState.json": {
-      "h": "g:0375ed0ee93b1192bf941e40f582ba763d8e4103",
+      "h": "g:3e3a3ec667c01909f2c00489031bf4fc1afd273c",
       "gz": false,
-      "b": "0375ed0ee93b1192bf941e40f582ba763d8e4103"
+      "b": "3e3a3ec667c01909f2c00489031bf4fc1afd273c"
     },
     "rowFieldItems_chunk_0.json": {
       "h": "g:dd7b23b1c0b9356d71461e9aa9a86dd4211fd0c3",
       "gz": false,
       "b": "dd7b23b1c0b9356d71461e9aa9a86dd4211fd0c3"
+    },
+    "commitments.json": {
+      "h": "g:e2f82371a84f25010747599f248cf1594c600b91",
+      "gz": false,
+      "b": "e2f82371a84f25010747599f248cf1594c600b91"
+    },
+    "thinkingStore.json": {
+      "h": "g:cff5f50cd6856d7cdf6b937af49f7ea4ea607370",
+      "gz": false,
+      "b": "cff5f50cd6856d7cdf6b937af49f7ea4ea607370"
     },
     "rowFieldItems_chunk_1.json": {
       "h": "g:4f283d5615480866ce2da74d7d8d153f28be98ab",
